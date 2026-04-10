@@ -9,11 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-D
+This is OpenSorce Workshop
 
 ## How to test
 
-Explain how to use your project
+dfjd
 
 ## External hardware
 
